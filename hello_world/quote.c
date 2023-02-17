@@ -6,6 +6,7 @@
  */
 int main(void)
 {
-	fput("i will be good today\" - Travis, 17-2-2023,\n", stdout);
+	fputs("i will be good today\" - Travis, 17-2-2023,\n", stdout);
 	return (1);
 }
+
